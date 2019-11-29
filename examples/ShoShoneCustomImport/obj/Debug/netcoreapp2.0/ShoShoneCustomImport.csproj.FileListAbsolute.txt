@@ -1,0 +1,14 @@
+C:\codework\revSDK\examples\ShoShoneCustomImport\bin\Debug\netcoreapp2.0\ShoShoneCustomImport.deps.json
+C:\codework\revSDK\examples\ShoShoneCustomImport\bin\Debug\netcoreapp2.0\ShoShoneCustomImport.runtimeconfig.json
+C:\codework\revSDK\examples\ShoShoneCustomImport\bin\Debug\netcoreapp2.0\ShoShoneCustomImport.runtimeconfig.dev.json
+C:\codework\revSDK\examples\ShoShoneCustomImport\bin\Debug\netcoreapp2.0\ShoShoneCustomImport.dll
+C:\codework\revSDK\examples\ShoShoneCustomImport\bin\Debug\netcoreapp2.0\ShoShoneCustomImport.pdb
+C:\codework\revSDK\examples\ShoShoneCustomImport\bin\Debug\netcoreapp2.0\revClient.dll
+C:\codework\revSDK\examples\ShoShoneCustomImport\bin\Debug\netcoreapp2.0\revClient.pdb
+C:\codework\revSDK\examples\ShoShoneCustomImport\obj\Debug\netcoreapp2.0\ShoShoneCustomImport.csprojAssemblyReference.cache
+C:\codework\revSDK\examples\ShoShoneCustomImport\obj\Debug\netcoreapp2.0\ShoShoneCustomImport.csproj.CoreCompileInputs.cache
+C:\codework\revSDK\examples\ShoShoneCustomImport\obj\Debug\netcoreapp2.0\ShoShoneCustomImport.AssemblyInfoInputs.cache
+C:\codework\revSDK\examples\ShoShoneCustomImport\obj\Debug\netcoreapp2.0\ShoShoneCustomImport.AssemblyInfo.cs
+C:\codework\revSDK\examples\ShoShoneCustomImport\obj\Debug\netcoreapp2.0\ShoShoneCustomImport.csproj.CopyComplete
+C:\codework\revSDK\examples\ShoShoneCustomImport\obj\Debug\netcoreapp2.0\ShoShoneCustomImport.dll
+C:\codework\revSDK\examples\ShoShoneCustomImport\obj\Debug\netcoreapp2.0\ShoShoneCustomImport.pdb

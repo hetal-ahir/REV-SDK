@@ -1,0 +1,15 @@
+C:\codework\revSDK\examples\searchAndExportDocument\bin\Debug\netcoreapp2.1\searchAndExportDocument.deps.json
+C:\codework\revSDK\examples\searchAndExportDocument\bin\Debug\netcoreapp2.1\searchAndExportDocument.runtimeconfig.json
+C:\codework\revSDK\examples\searchAndExportDocument\bin\Debug\netcoreapp2.1\searchAndExportDocument.runtimeconfig.dev.json
+C:\codework\revSDK\examples\searchAndExportDocument\bin\Debug\netcoreapp2.1\searchAndExportDocument.dll
+C:\codework\revSDK\examples\searchAndExportDocument\obj\Debug\netcoreapp2.1\searchAndExportDocument.csprojAssemblyReference.cache
+C:\codework\revSDK\examples\searchAndExportDocument\obj\Debug\netcoreapp2.1\searchAndExportDocument.csproj.CoreCompileInputs.cache
+C:\codework\revSDK\examples\searchAndExportDocument\obj\Debug\netcoreapp2.1\searchAndExportDocument.AssemblyInfoInputs.cache
+C:\codework\revSDK\examples\searchAndExportDocument\obj\Debug\netcoreapp2.1\searchAndExportDocument.AssemblyInfo.cs
+C:\codework\revSDK\examples\searchAndExportDocument\bin\Debug\netcoreapp2.1\searchAndExportDocument.pdb
+C:\codework\revSDK\examples\searchAndExportDocument\obj\Debug\netcoreapp2.1\searchAndExportDocument.dll
+C:\codework\revSDK\examples\searchAndExportDocument\obj\Debug\netcoreapp2.1\searchAndExportDocument.pdb
+C:\codework\revSDK\examples\searchAndExportDocument\bin\Debug\netcoreapp2.1\revClient.dll
+C:\codework\revSDK\examples\searchAndExportDocument\bin\Debug\netcoreapp2.1\revClient.pdb
+C:\codework\revSDK\examples\searchAndExportDocument\obj\Debug\netcoreapp2.1\searchAndExportDocument.csproj.CopyComplete
+C:\codework\revSDK\examples\searchAndExportDocument\bin\Debug\netcoreapp2.1\appsettings.json

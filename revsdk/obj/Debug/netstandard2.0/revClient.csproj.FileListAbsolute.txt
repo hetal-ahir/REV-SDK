@@ -1,0 +1,9 @@
+C:\codework\revSDK\revSDK\bin\Debug\netstandard2.0\revClient.deps.json
+C:\codework\revSDK\revSDK\bin\Debug\netstandard2.0\revClient.dll
+C:\codework\revSDK\revSDK\bin\Debug\netstandard2.0\revClient.pdb
+C:\codework\revSDK\revSDK\obj\Debug\netstandard2.0\revClient.csproj.CoreCompileInputs.cache
+C:\codework\revSDK\revSDK\obj\Debug\netstandard2.0\revClient.AssemblyInfoInputs.cache
+C:\codework\revSDK\revSDK\obj\Debug\netstandard2.0\revClient.AssemblyInfo.cs
+C:\codework\revSDK\revSDK\obj\Debug\netstandard2.0\revClient.dll
+C:\codework\revSDK\revSDK\obj\Debug\netstandard2.0\revClient.pdb
+C:\codework\revSDK\revSDK\obj\Debug\netstandard2.0\revClient.csprojAssemblyReference.cache
